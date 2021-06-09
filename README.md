@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sai Swaroopa
 - 👀 I’m interested in Web Designing and Development
 - 🌱 I’m currently learning HTML5
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me sai.swaroopa2001@gmail.com
 
 <!---
 SaiSwaroopa1211/SaiSwaroopa1211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
