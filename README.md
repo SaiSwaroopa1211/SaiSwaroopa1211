@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML5, Python, JavaScript
 - 📫 How to reach me sai.swaroopa2001@gmail.com
 - 🎯 My Goals
-    *To build a gamre
+    *To build a game
     *To create a interactive website
     *Implement what I learn
 
